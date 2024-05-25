@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Family-Pepe/static/css/main.222f9f36.css",
+    "main.js": "/Family-Pepe/static/js/main.cf0464af.js",
+    "static/js/453.8dd32d12.chunk.js": "/Family-Pepe/static/js/453.8dd32d12.chunk.js",
+    "static/media/gif1.gif": "/Family-Pepe/static/media/gif1.92025c2680927c0d3c34.gif",
+    "static/media/left0.gif": "/Family-Pepe/static/media/left0.71f786b98df622a62b72.gif",
+    "static/media/left1.gif": "/Family-Pepe/static/media/left1.90bf299c52ac520ae3dc.gif",
+    "static/media/right1.gif": "/Family-Pepe/static/media/right1.04d2d47fc7e240937caf.gif",
+    "static/media/right0.gif": "/Family-Pepe/static/media/right0.44061bbd3c5b0dc99b6a.gif",
+    "static/media/center.gif": "/Family-Pepe/static/media/center.b9118d2a28cdb0501b54.gif",
+    "static/media/right2.gif": "/Family-Pepe/static/media/right2.b8b184023d33edb6c2dc.gif",
+    "static/media/left2.gif": "/Family-Pepe/static/media/left2.113ad0db2393b01c8536.gif",
+    "static/media/family-background.png": "/Family-Pepe/static/media/family-background.011da9a401d90e79b0e5.png",
+    "static/media/why_back.png": "/Family-Pepe/static/media/why_back.ce6cb69e7cd6e333b200.png",
+    "static/media/join.png": "/Family-Pepe/static/media/join.54db93b62cb1a2161dbc.png",
+    "static/media/launch.png": "/Family-Pepe/static/media/launch.3f4de69becf64e72bbca.png",
+    "static/media/DigitalStrip2BB_reg.ttf": "/Family-Pepe/static/media/DigitalStrip2BB_reg.b95597b03b361517f79c.ttf",
+    "static/media/DigitalStrip2BB_bold.ttf": "/Family-Pepe/static/media/DigitalStrip2BB_bold.adfc2bea7045a27bf306.ttf",
+    "static/media/FamilyGuy.ttf": "/Family-Pepe/static/media/FamilyGuy.7c583d4b939e1b987001.ttf",
+    "index.html": "/Family-Pepe/index.html",
+    "main.222f9f36.css.map": "/Family-Pepe/static/css/main.222f9f36.css.map",
+    "main.cf0464af.js.map": "/Family-Pepe/static/js/main.cf0464af.js.map",
+    "453.8dd32d12.chunk.js.map": "/Family-Pepe/static/js/453.8dd32d12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.222f9f36.css",
+    "static/js/main.cf0464af.js"
+  ]
+}
