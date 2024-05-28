@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Family-Pepe/static/css/main.222f9f36.css",
-    "main.js": "/Family-Pepe/static/js/main.cf0464af.js",
+    "main.css": "/Family-Pepe/static/css/main.f418e138.css",
+    "main.js": "/Family-Pepe/static/js/main.58614c3f.js",
     "static/js/453.8dd32d12.chunk.js": "/Family-Pepe/static/js/453.8dd32d12.chunk.js",
     "static/media/gif1.gif": "/Family-Pepe/static/media/gif1.92025c2680927c0d3c34.gif",
     "static/media/left0.gif": "/Family-Pepe/static/media/left0.71f786b98df622a62b72.gif",
@@ -19,12 +19,12 @@
     "static/media/DigitalStrip2BB_bold.ttf": "/Family-Pepe/static/media/DigitalStrip2BB_bold.adfc2bea7045a27bf306.ttf",
     "static/media/FamilyGuy.ttf": "/Family-Pepe/static/media/FamilyGuy.7c583d4b939e1b987001.ttf",
     "index.html": "/Family-Pepe/index.html",
-    "main.222f9f36.css.map": "/Family-Pepe/static/css/main.222f9f36.css.map",
-    "main.cf0464af.js.map": "/Family-Pepe/static/js/main.cf0464af.js.map",
+    "main.f418e138.css.map": "/Family-Pepe/static/css/main.f418e138.css.map",
+    "main.58614c3f.js.map": "/Family-Pepe/static/js/main.58614c3f.js.map",
     "453.8dd32d12.chunk.js.map": "/Family-Pepe/static/js/453.8dd32d12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.222f9f36.css",
-    "static/js/main.cf0464af.js"
+    "static/css/main.f418e138.css",
+    "static/js/main.58614c3f.js"
   ]
 }
